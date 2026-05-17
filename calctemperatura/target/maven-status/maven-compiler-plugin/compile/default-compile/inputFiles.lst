@@ -1,0 +1,7 @@
+/Users/leonardvale/Downloads/calctemperatura/src/main/java/com/leonard/calctemperatura/CalctemperaturaApplication.java
+/Users/leonardvale/Downloads/calctemperatura/src/main/java/com/leonard/calctemperatura/controller/ConversorController.java
+/Users/leonardvale/Downloads/calctemperatura/src/main/java/com/leonard/calctemperatura/domain/TemperatureOperator.java
+/Users/leonardvale/Downloads/calctemperatura/src/main/java/com/leonard/calctemperatura/exception/CustomizedResponseEntityExceptionHandler.java
+/Users/leonardvale/Downloads/calctemperatura/src/main/java/com/leonard/calctemperatura/exception/ExceptionResponse.java
+/Users/leonardvale/Downloads/calctemperatura/src/main/java/com/leonard/calctemperatura/exception/UnsupportedTemperatureTargetException.java
+/Users/leonardvale/Downloads/calctemperatura/src/main/java/com/leonard/calctemperatura/util/NumberConverter.java
